@@ -1,0 +1,17 @@
+{
+  "name": "websockets",
+  "description": "",
+  "version": "0.0.0",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+      "express": "latest",
+      "socket.io": "latest",
+      "aws-iot-device-sdk": "latest",
+      "inherits": "latest",
+      "mqtt": "latest",
+      "minimist": "latest"
+  }
+}

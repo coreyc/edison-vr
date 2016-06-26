@@ -1,0 +1,107 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "LICENSE.md": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "edison-vr-server.xdk": {
+        "previousModTime": 1466869969000,
+        "modified": 1466869969000,
+        "seen": true,
+        "name": "edison-vr-server.xdk"
+      },
+      "edison-vr-server.xdke": {
+        "previousModTime": 1466974994000,
+        "modified": 1466974994000,
+        "seen": true,
+        "name": "edison-vr-server.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1466974990000,
+        "modified": 1466974990000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1466880911000,
+        "modified": 1466880911000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "websockets_client.png": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "websockets_client.png"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1466868148000,
+        "modified": 1466868148000,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      },
+      "client/index.css": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "client/index.css"
+      },
+      "client/index.html": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "client/index.html"
+      },
+      "client/index.js": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "client/index.js"
+      },
+      "edison-vr-server/edison-vr-server.xdk": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "edison-vr-server/edison-vr-server.xdk"
+      },
+      "edison-vr-server/edison-vr-server.xdke": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "edison-vr-server/edison-vr-server.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1466868147000,
+        "modified": 1466868147000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
